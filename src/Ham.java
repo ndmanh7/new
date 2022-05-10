@@ -2,10 +2,8 @@ import java.util.Arrays;
 
 public class Ham {
 	//thu them vao xem
- them-2
 	//them vao lan 2 nay
-
- main
+	//them lan 3
 	 static void inThongTin(String name) {					//them static vao de goi duoc trong ham main
 															//vi ham main la static va ham main chi goi duoc ham static
 		System.out.println("Ten : "+name);
