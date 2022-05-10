@@ -55,5 +55,6 @@ public class Ham {
 			System.out.println(Arrays.toString(xoa(array1)));
 			
 			//adsasda
+			//fgfgfgfg
 		}
 }
