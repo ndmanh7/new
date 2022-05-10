@@ -2,7 +2,7 @@ import java.util.Random;
 
 public class toantu {
 			public static void main(String[] args) {
-				
+				//thu github
 //				int a = 13%3;	//a = 1
 //				
 //				int  b = a++;		//b=1  --> a = 2
