@@ -1,7 +1,8 @@
 import java.util.Arrays;
 
 public class Ham {
-	//thu
+	//thu them vao xem
+	//them vao lan 2
 	 static void inThongTin(String name) {					//them static vao de goi duoc trong ham main
 															//vi ham main la static va ham main chi goi duoc ham static
 		System.out.println("Ten : "+name);
